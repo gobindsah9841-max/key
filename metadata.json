@@ -1,0 +1,6 @@
+{
+  "name": "Loksewa Study Book",
+  "description": "Offline study book, practice MCQs and timed tests for Nepal Public Service Commission (Loksewa Aayog) 5th Level examination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
